@@ -1,0 +1,10 @@
+br\udesc\ceavi\webservicerest_je\PessoasResource.class
+model\ModelPessoa_.class
+dao\DaoCliente.class
+model\ModelPessoa.class
+dao\Dao.class
+br\udesc\ceavi\webservicerest_je\ApplicationConfig.class
+model\ModelCliente.class
+model\ModelCliente_.class
+br\udesc\ceavi\webservicerest_je\ClientesResource.class
+dao\DaoPessoa.class
